@@ -1,0 +1,5 @@
+# 项目排除路径
+/MyBatis_demo01/target/
+/MyBatis_demo02/target/
+/MyBatis_demo03/target/
+/MyBatis_Generator/target/
